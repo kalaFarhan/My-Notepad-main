@@ -4,7 +4,7 @@
 
 <h3>👋 Contributor:</h3>
 
-- 🌱 Durratul Daka Pamungkas: **XI/PPLG-3/8**
+- 🌱 Khaila Farhan Abadan: **XI/PPLG-3/14**
 
 <h3>📱 Menggunakan State Management Provider</h3>
 <p>Aplikasi Notepad ini menggunakan Provider sebagai solusi manajemen state.</p>
